@@ -1,0 +1,44 @@
+##############################
+##
+##       作者：张澳旗
+##     微信：17600005204
+##   有偿代做、每天自动推送
+##
+##############################
+
+{
+"app_id": "wxe93175f4c5fa4609",
+"app_secret": "37810570921a8148b2b81360cff1e0a2",
+
+"template_id": "pY8650BqNf_L057WgUmSac8sYewI05tCiaFZlxnfkMU",
+"user_id": ["oLABz6LviWTjqjruikEbwY2j8glo"],
+#"user_id": ["oLABz6LviWTjqjruikEbwY2j8glo" , "oLABz6N5PStkOcUQ1ZuXGxbSfVkE"],
+
+"C_ShengFen": "河南",
+"C_ChengShi": "焦作",
+"S_XingZuo": "白羊座",
+
+"S_Love": "2021-06-23",
+"birthday1": "1999-02-20",
+"birthday2": "1998-11-03",
+
+"C_String01": "可以替换为自己想要的文字 01",
+"C_String02": "可以替换为自己想要的文字 02",
+"C_String03": "可以替换为自己想要的文字 03",
+
+
+# 天气预报
+"API_TQYB":"574a573b0cb4c4b1db5fe32a011d0b1b",
+# 星座运势
+"API_XZYS":"574a573b0cb4c4b1db5fe32a011d0b1b",
+
+# 早安心语
+"API_ZAXY":"574a573b0cb4c4b1db5fe32a011d0b1b",
+# 晚安心语
+"API_WAXY":"574a573b0cb4c4b1db5fe32a011d0b1b",
+
+# 舔狗日记
+"API_TGRJ":"574a573b0cb4c4b1db5fe32a011d0b1b",
+# 土味情话
+"API_TWQH":"574a573b0cb4c4b1db5fe32a011d0b1b"
+}
